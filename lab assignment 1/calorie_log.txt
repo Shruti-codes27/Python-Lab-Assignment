@@ -1,0 +1,13 @@
+Daily calorie tracker Log
+Timestamp: 2025-10-29 10:44:23.495661
+
+Meal Name         Calorie
+---------------------------
+breakfast          200.00
+lunch              600.00
+dinner             500.00
+---------------------------
+Total:            1300.00
+Average:           433.33
+Daily Limit:      1000.00
+Status: Exceeded Limit 
