@@ -1,0 +1,3 @@
+type,title,author,isbn,status
+Book,The First Frost,Zhu Yi,,available
+DigitalBook,Pride And Prejudice,Harper Lee,0141439518,available
